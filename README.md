@@ -21,17 +21,20 @@
   
   
  
-<div>
+
 <center>
-<B>Anshuman Mishra</B>
-
-[GitHub](www.github.com/shivanshuman021)
-
-[LinkedIn] (https://www.linkedin.com/in/anshuman-mishra-89b014195)
-
-[Instagram](www.instagram.com/kanpuriyanawab)
-
-[Facebook](https://www.facebook.com/profile.php?id=100027935993418)
-
+  <B>Anshuman Mishra</B>
 </center>
+  
+<div>
+  <center>
+  [GitHub](www.github.com/shivanshuman021)
+
+  [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
+
+  [Instagram](www.instagram.com/kanpuriyanawab)
+
+  [Facebook](https://www.facebook.com/profile.php?id=100027935993418)
+
+  </center>
 </div>
