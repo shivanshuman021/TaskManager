@@ -1,9 +1,9 @@
 ## Wanna manage your time in Lockdown ? Use TaskManager today to schedule your daily routine or make a ToDo List
 ### Linux: 
-<img src="src/ubuntu.png" style="width:1028px;height:410px;">
+<img src="src/ubuntu.png" style="width:1366px;height:768px;">
 
 ### Windows:
-<img src="src/windows.png" style="width:1028px;height:410px;">
+<img src="src/windows.png" style="width:1366px;height:768px;">
 
 <I>Download the [zip](https://github.com/shivanshuman021/TaskManager/archive/master.zip) now and make most out of your time durin COVID19 crisis </I>
 
