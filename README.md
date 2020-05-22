@@ -1,4 +1,4 @@
-## MultiPlatform To-do Desktop App
+<center><h2> MultiPlatform To-do Desktop App</h2></center>
 
 <center> Wanna manage your time in Lockdown ? </center>
 
@@ -24,10 +24,10 @@
 <div>
 <center>
 <B>Anshuman Mishra</B>
-  
+
 [GitHub](www.github.com/shivanshuman021)
 
-[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
+[LinkedIn] (https://www.linkedin.com/in/anshuman-mishra-89b014195)
 
 [Instagram](www.instagram.com/kanpuriyanawab)
 
