@@ -5,10 +5,10 @@
 <I>This app supports all three major operating systems so no dependency issue ! </I>
 
 ### Linux: 
-<img src="src/ubuntu.png" style="width:1366px;height:768px;">
+<img src="src/ubuntu.png" style="width:1366px;height:450px;">
 
 ### Windows:
-<img src="src/windows.png" style="width:1366px;height:768px;">
+<img src="src/windows.png" style="width:1366px;height:450px;">
 
 <I>Download the [zip](https://github.com/shivanshuman021/TaskManager/archive/master.zip) now and make most out of your time durin COVID19 crisis </I>
 
