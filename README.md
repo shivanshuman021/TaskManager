@@ -23,11 +23,13 @@
  
 
 <center>
+  <I>Developed and Maintained by</I>
   <B>Anshuman Mishra</B>
 </center>
   
 <div>
   <center>
+    
   [GitHub](www.github.com/shivanshuman021)
 
   [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
