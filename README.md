@@ -15,9 +15,15 @@
   3. Simply double click on the TaskManager.exe file to run the app.
   
 <div>
-<center><B>Anshuman Mishra</B></center>
+<center><B>Anshuman Mishra</B>
+  
+[GitHub](www.github.com/shivanshuman021)
 
-<center>[LinkedIn] (https://www.linkedin.com/in/anshuman-mishra-89b014195)</center>
-<center>[Instagram] (www.instagram.com/kanpuriyanawab)</center>
-<center>[Facebook] (https://www.facebook.com/profile.php?id=100027935993418)</center>
+[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
+
+[Instagram](www.instagram.com/kanpuriyanawab)
+
+[Facebook](https://www.facebook.com/profile.php?id=100027935993418)
+
+</center>
 </div>
