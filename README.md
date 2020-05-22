@@ -1,5 +1,9 @@
-## MultiPlatform To-Do App
-## Wanna manage your time in Lockdown ? Use TaskManager today to schedule your daily routine or make a ToDo List
+## MultiPlatform To-do Desktop App
+
+<center> Wanna manage your time in Lockdown ? </center>
+
+<I>This app supports all three major operating systems so no dependency issue ! </I>
+
 ### Linux: 
 <img src="src/ubuntu.png" style="width:1366px;height:768px;">
 
