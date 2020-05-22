@@ -1,6 +1,7 @@
 ## Wanna manage your time in Lockdown ? Use TaskManager today to schedule your daily routine or make a ToDo List
 ### Linux: 
 <img src="src/ubuntu.png" style="width:1028px;height:410px;">
+
 ### Windows:
 <img src="src/windows.png" style="width:1028px;height:410px;">
 
