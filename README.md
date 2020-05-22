@@ -9,6 +9,15 @@
 
 <I><B>And don't forget to enjoy your life !! </B></I>
 
+### User Guide
+  1. Download the zip from [here](https://github.com/shivanshuman021/TaskManager/archive/master.zip) 
+  2. Extract and navigate to the respective OS folder 
+  3. Simply double click on the TaskManager.exe file to run the app.
+  
+<div>
 <center><B>Anshuman Mishra</B></center>
-<center>[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)</center>
-<center>[Instagram](www.instagram.com/kanpuriyanawab)</center>
+
+<center>[LinkedIn] (https://www.linkedin.com/in/anshuman-mishra-89b014195)</center>
+<center>[Instagram] (www.instagram.com/kanpuriyanawab)</center>
+<center>[Facebook] (https://www.facebook.com/profile.php?id=100027935993418)</center>
+</div>
