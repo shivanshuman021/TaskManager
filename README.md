@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Wanna manage your time in Lockdown ? Use TaskManager today to schedule your daily routine or make a ToDo List
+### Linux: 
+<img src="src/ubuntu.png" style="width:1028px;height:410px;">
+### Windows:
+<img src="src/windows.png" style="width:1028px;height:410px;">
 
-You can use the [editor on GitHub](https://github.com/shivanshuman021/TaskManager/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<I>Download the [zip](https://github.com/shivanshuman021/TaskManager/archive/master.zip) now and make most out of your time durin COVID19 crisis </I>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<I><B>And don't forget to enjoy your life !! </B></I>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivanshuman021/TaskManager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<center><B>Anshuman Mishra</B></center>
+<center>[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)</center>
+<center>[Instagram](www.instagram.com/kanpuriyanawab)</center>
