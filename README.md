@@ -2,7 +2,7 @@
 
 <center> Wanna manage your time in Lockdown ? </center>
 
-<I>This app supports all three major operating systems so no dependency issue ! </I>
+<center><I>This app supports all three major operating systems so no dependency issue ! </I></center>
 
 ### Linux: 
 <img src="src/ubuntu.png" style="width:1366px;height:450px;">
@@ -19,8 +19,11 @@
   2. Extract and navigate to the respective OS folder 
   3. Simply double click on the TaskManager.exe file to run the app.
   
+  
+ 
 <div>
-<center><B>Anshuman Mishra</B>
+<center>
+<B>Anshuman Mishra</B>
   
 [GitHub](www.github.com/shivanshuman021)
 
